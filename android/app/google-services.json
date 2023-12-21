@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225062013640",
+    "firebase_url": "https://slowforet-996de-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "slowforet-996de",
+    "storage_bucket": "slowforet-996de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225062013640:android:66b89d4cb69a6eed5033fd",
+        "android_client_info": {
+          "package_name": "com.SlowForet.slowforet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225062013640-n5bsvm120ps9j3skrkf465kbdkrljp9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SlowForet.slowforet",
+            "certificate_hash": "1c1d91725be0743befeb445b4ec22c835af0818c"
+          }
+        },
+        {
+          "client_id": "225062013640-ppmlivs6a34b8ra6einga0kjfrn1fhl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmvKcjE75fp9jzls3Uau9kFXnEBXCNqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225062013640-ppmlivs6a34b8ra6einga0kjfrn1fhl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225062013640-eco918n2msnbjdo8q397m1qekp20il8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SlowForet.slowforet.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
